@@ -1,6 +1,6 @@
 module.exports = {
   apps: [{
-    name: 'Hello World',
+    name: 'hello',
     script: 'app.js',
     instances: 1,
     max_memory_restart: '200M',
